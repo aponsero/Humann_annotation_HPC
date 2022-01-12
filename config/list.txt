@@ -1,0 +1,2 @@
+WGS_P226_B1_NovaSeq2.1_host_removed_R1_val_1.fq.gz
+WGS_P90_B7_NovaSeq2.1_host_removed_R1_val_1.fq.gz
